@@ -61,8 +61,4 @@ I’m a passionate developer who loves building high-impact, scalable solutions.
 
 ---
 
-## 🧭 Visitor Counter
-
-[![](https://visitcount.itsvg.in/api?id=nxtnilesh&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
