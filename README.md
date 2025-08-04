@@ -6,6 +6,10 @@ I’m a passionate developer who loves building high-impact, scalable solutions.
 
 ---
 
+🔗 **Live Site:** [https://nxtnilesh.vercel.app](https://nxtnilesh.vercel.app)
+
+---
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nxtnilesh)  
