@@ -6,7 +6,7 @@ I’m a passionate developer who loves building high-impact, scalable solutions.
 
 ---
 
-🔗 **Live Site:** [https://nxtnilesh.vercel.app](https://nxtnilesh.vercel.app)
+🔗 **Portfolio:** [https://nxtnilesh.vercel.app](https://nxtnilesh.vercel.app)
 
 ---
 
