@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Nilesh Sharma
 
-### 🚀 Full Stack Developer | MERN, Java, Python | AI Enthusiast
+### 🚀 Full Stack Developer | MERN, Next.js Java, Python | AI Enthusiast
 
 I’m a passionate developer who loves building high-impact, scalable solutions. From hackathons to production-grade systems, I strive to bring innovation, performance, and user-focused design into every line of code.
 
