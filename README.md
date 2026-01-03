@@ -54,13 +54,3 @@ I’m a passionate developer who loves building high-impact, scalable solutions.
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![Nilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nxtnilesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![Nilesh's Streak](https://streak-stats.demolab.com/?user=nxtnilesh&theme=dark&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxtnilesh&theme=dark&hide_border=false&layout=compact)
-
----
